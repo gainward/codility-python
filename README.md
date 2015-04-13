@@ -1,2 +1,3 @@
-# codility_python
-codility answers in python
+# codility-python
+
+Answer for assorted questions on (Codility)[https://codility.com/programmers/lessons/] in Python.
